@@ -3,8 +3,7 @@ git is a free softwarie distributd under the GPL
 git has a mutable indes called stage
 git tracks changes of files
 creating a new branch dev
-<<<<<<< HEAD
-creating a new branch sss is quik and simple
-=======
 creating a new branch sss is quick and simple
->>>>>>> feature1
+
+分支管理策略
+
